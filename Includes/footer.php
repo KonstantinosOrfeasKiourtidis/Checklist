@@ -121,7 +121,7 @@
                 <hr>
                 <hr>
                 <div class="link-container">
-                    <a href="https://codepen.io/TheHalfBlind" target="_blank">
+                    <a href="https://codepen.io/Konstantinos-Orfeas-Kiourtidis" target="_blank">
                         <i class="fab fa-codepen fa-fw"></i>
                     </a>
 
@@ -143,7 +143,7 @@
                     <a class="github" href="https://github.com/KonstantinosOrfeasKiourtidis" target="_blank">
                         <i class="fab fa-github fa-fw"></i>
                     </a>
-                    <a class="codepen" href="https://codepen.io/TheHalfBlind" target="_blank">
+                    <a class="codepen" href="https://codepen.io/Konstantinos-Orfeas-Kiourtidis" target="_blank">
                         <i class="fab fa-codepen fa-fw"></i>
                     </a>
                 </div>
