@@ -105,8 +105,24 @@
             <div class="collapse-linkedin-icon">
                 <hr>
                 <div class="link-container">
-                    <a href="#https://www.linkedin.com/in/konstantinos-orfeas-kiourtidis-24747521b/" target="_blank">
+                    <a href="https://www.linkedin.com/in/konstantinos-orfeas-kiourtidis-24747521b/" target="_blank">
                         <i class="fab fa-linkedin fa-fw"></i>
+                    </a>
+
+                </div>
+                <hr>
+                <hr>
+                <div class="link-container">
+                    <a href="https://github.com/KonstantinosOrfeasKiourtidis" target="_blank">
+                        <i class="fab fa-github fa-fw"></i>
+                    </a>
+
+                </div>
+                <hr>
+                <hr>
+                <div class="link-container">
+                    <a href="https://codepen.io/TheHalfBlind" target="_blank">
+                        <i class="fab fa-codepen fa-fw"></i>
                     </a>
 
                 </div>
@@ -126,6 +142,9 @@
                     </a>
                     <a class="github" href="https://github.com/KonstantinosOrfeasKiourtidis" target="_blank">
                         <i class="fab fa-github fa-fw"></i>
+                    </a>
+                    <a class="codepen" href="https://codepen.io/TheHalfBlind" target="_blank">
+                        <i class="fab fa-codepen fa-fw"></i>
                     </a>
                 </div>
             </div>

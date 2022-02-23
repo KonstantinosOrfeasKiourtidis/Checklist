@@ -2986,6 +2986,11 @@ select:-webkit-autofill:focus {
     color: #0e76a8;
 }
 
+.footer-down-right-container .codepen:hover{
+    opacity: 1;
+    color: white;
+}
+
 .footer-down-right-container .github:hover{
     opacity: 1;
     color: rgb(175, 128, 240);
