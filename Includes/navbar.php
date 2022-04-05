@@ -64,7 +64,7 @@ if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
                 </button>
             </div>
             <div class="collapse-brand-title">
-                <a href="index.php"><strong class="logo-color">Check</strong>list</a>
+                <a class="logo-title" href="index.php"><strong class="logo-color">CHECK</strong>LIST</a>
             </div>
 
         </div>
@@ -117,7 +117,7 @@ if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
 
 
             <div class="brand-title">
-                <a href="index.php"><strong class="logo-color">Check</strong>list</a>
+                <a class="logo-title" href="index.php"><strong class="logo-color">CHECK</strong>LIST</a>
             </div>
 
 
