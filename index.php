@@ -152,7 +152,7 @@ require('Includes/dbh.inc.php');
         <div class="swiper-pagination"></div>
         </div>
 <div class="welcome-message">
-    <h1>Welcome to Checklist!</h1>
+    <h1>Welcome to <strong class="logo-color">CHECK</strong>LIST!</h1>
     <hr>
    
    
