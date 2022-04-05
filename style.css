@@ -29,6 +29,9 @@ html, body {
     margin-right: 5px;
 }
 
+.logo-title{
+    font-weight: bold;
+}
 
 .logo-color{
    color: rgb(66, 186, 150);
@@ -1162,9 +1165,9 @@ display: none!important;
  }
 .welcome-message h1{
     font-size: 24px;
-  
+    font-weight: bold;
     font-family: 'Roboto', sans-serif;
-   
+    
     color: #333;
   
 }
@@ -3746,6 +3749,12 @@ select:-webkit-autofill:focus {
 @media(min-width: 2000px){
     .game-page-container-singlepage{
         flex-direction: column;
+    }
+}
+
+@media(max-width: 1050px){
+    .brand-title a {
+        font-size: 20px;
     }
 }
 
