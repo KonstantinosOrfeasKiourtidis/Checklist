@@ -22,7 +22,7 @@ if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name = "google-signin-client_id" content="**************************.apps.googleusercontent.com">
+    <meta name = "google-signin-client_id" content="735551522900-mt7010miee8qe66l3bdu4oskpm2bh3if.apps.googleusercontent.com">
     <script src="https://apis.google.com/js/platform.js?onload=onLoad" async defer></script>
     <title>Checklist</title>
     <link rel="icon" type="image/x-icon" href="../Checklist/Images/Icons/favicon.ico">
@@ -64,7 +64,7 @@ if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
                 </button>
             </div>
             <div class="collapse-brand-title">
-                <a href="index.php">Checklist</a>
+                <a href="index.php"><strong class="logo-color">Check</strong>list</a>
             </div>
 
         </div>
@@ -117,7 +117,7 @@ if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
 
 
             <div class="brand-title">
-                <a href="index.php">Checklist</a>
+                <a href="index.php"><strong class="logo-color">Check</strong>list</a>
             </div>
 
 
